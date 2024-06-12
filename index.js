@@ -120,3 +120,117 @@
 // let num1 = {"key":"val"}
 // let arr = [1,2,3]
 
+
+// function add(){
+//     console.log("hello")
+// }
+// add();
+
+// function add(a){ //para
+//     console.log(a);
+
+// }
+// add(10);//argu
+// add();//argu
+
+
+// function add(...a){
+//     console.log(a);
+
+// }
+// add(10,20,30);
+
+// function add(a,b){
+//     console.log(a[2]);
+// }
+// add(10,20);
+
+
+// function add(b,...a){
+//          console.log(b); 
+//      }
+//     add(10,20,30)
+
+// function add(a,b){
+//         console.log(b);
+    
+//      }
+//      add(10,20,30)
+
+
+// function add(a){
+//     return a+a;
+// }
+// const result=add("2")
+// console.log(result);
+
+
+//arrow function
+// const result=(a,b)=>{
+//     return b;
+// }
+// console.log(result(10,20))
+
+
+// without function name
+// (()=>{
+//     console.log("hello");
+// }
+// )()
+
+// let str="hello"
+// console.log(str);
+
+// let str="hello"
+//  console.log(str[4]);
+
+// let str="hello is my name"
+// console.log(str.slice(0,7));
+// console.log(str.length)
+
+// let num=120
+// console.log(num);
+// console.log( typeof num);
+// console.log( typeof parseInt(num));
+
+// const obj = {"key":"value"}
+// const obj1= {
+//     "key":"value" , 
+//     "first name":"raj",
+//     age:function(){
+//         return "age"
+//     }
+// }
+// console.log(obj1.age());
+// console.log(obj.key);
+// console.log(obj1["first name"]);
+
+
+// const arr = ["hello","one",2,20]
+// console.log(arr);
+// console.log(arr[0]);
+
+// const arr =["hello","one",{"first name":"hello",secondname:"surname"},[120,140]]
+// console.log(arr);
+// console.log(arr[2]["first name"]);
+// console.log(arr[3][0]);
+
+
+
+//milk elaichi tea powder sugar
+// let milk = 100
+// let cardamom = 1
+// let teapowder = 1
+// let sugar = 10
+// let count=40
+// let tea = (count*(milk*cardamom*teapowder*sugar)/1000)
+// console.log(tea);
+
+
+
+
+
+
+
+
+
